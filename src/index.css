@@ -14,20 +14,20 @@ body {
   min-height: 100vh;
 }
 
-#header {
+.header-container {
   text-align: center;
   margin: 3rem auto;
 }
 
 
-#header img {
+.header-container img {
   width: 5rem;
   height: 5rem;
   object-fit: contain;
   background-color: transparent;
 }
 
-#header h1 {
+.header-text {
   font-size: 1.5rem;
 }
 
